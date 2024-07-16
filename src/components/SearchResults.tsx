@@ -53,5 +53,5 @@ export function SearchResults({results}: SearchResultsProps) {
 // useCallback quando usar
 
 /**
- * 
+ * Comparação de igualdade, serve para funções repassadas, ou seja funções que são utilizada em lugares diferentes ou mesmo lugar.
  */
